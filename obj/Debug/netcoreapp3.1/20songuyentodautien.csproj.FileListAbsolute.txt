@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.exe
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.deps.json
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.runtimeconfig.json
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.runtimeconfig.dev.json
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.dll
+C:\Users\admin\source\repos\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.pdb
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.AssemblyInfo.cs
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.dll
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.pdb
+C:\Users\admin\source\repos\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.genruntimeconfig.cache
